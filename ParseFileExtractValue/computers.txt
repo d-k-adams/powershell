@@ -1,0 +1,12 @@
+
+powershell "E:\GetComputerName.ps1" "Computer3" "E:\computers.txt"
+
+Computer report (Filename: computers.txt)
+
+IP Address           Computer name
+------------           ------------------
+123.45.11.10         Computer1              
+222.121.22.45        Computer2              
+65.45.65.11          Computer3
+22.65.11.55          Computer4
+52.12.23.11          Computer5
